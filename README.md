@@ -1,0 +1,4 @@
+# Mind Set when to start coding this challenge
+- In the first time when seeing the design, I'm not start to code immediately. I'll look through the hole of design and will list and define which component will be the share component, I'll follow the Atom design pattern then will define which one is atoms, which one is molecules ( In this design, InputField, AuthorizedLayout, Dropdown, etc )
+- Next step ( for this login page ), I'll start to build the common share component first then move to modecules ( like Login Form ) and building the layout 
+- Then finaliy I'll add the login for the form ( like validation required, email type and password )
